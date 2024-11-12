@@ -1,0 +1,53 @@
+.estilosCards {
+    display: inline-block;
+}
+
+
+
+.colorRojo {
+    background-color: rgb(236, 16, 16);
+
+}
+
+
+.circuloRojo {
+    height: 25px;
+    width: 25px;
+    border-radius: 100%;
+    background-color: lightsalmon;
+    display: inline-block;
+}
+
+.colorAmarillo {
+    background-color: rgb(191, 219, 32);
+
+}
+
+.circuloVerde {
+    height: 25px;
+    width: 25px;
+    border-radius: 100%;
+    background-color: lightgreen;
+    display: inline-block;
+}
+
+.colorAzul {
+    background-color: rgb(46, 27, 218);
+
+}
+
+.circuloAzul {
+    height: 25px;
+    width: 25px;
+    border-radius: 100%;
+    background-color: lightseagreen;
+    display: inline-block;
+}
+
+.circuloDefault {
+    height: 25px;
+    width: 25px;
+    border-radius: 100%;
+    background-color: blueviolet;
+    display: inline-block;
+}
